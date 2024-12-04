@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asgher! An aspiring Cyber Security, Networking and Youtube Professional! <a href="https://www.youtube.com/@kaiokhan2837">YouTuber</a></h1>
+<h1>Hi, I'm Asgher! An aspiring Cyber Security, Networking and Youtube Professional! 
 
 <h2>👨‍💻 Personal Portfolio Projects:</h2>
 
